@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Sensor_App</string>
     <string name="switch_activity">Switch activity</string>
+    <string name="vi_er_i_graphics_activity_woo">Vi er i graphics activity woo!</string>
 </resources>
